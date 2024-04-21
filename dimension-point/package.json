@@ -1,0 +1,20 @@
+{
+  "name": "dimension-point",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "docker build -t dimension-point ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kyototwins/dimension-point2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kyototwins/dimension-point2/issues"
+  },
+  "homepage": "https://github.com/Kyototwins/dimension-point2#readme"
+}

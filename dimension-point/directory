@@ -1,0 +1,28 @@
+dimension-point/
+│
+├── public/
+│   ├── static/
+│   │   └── main.js
+│   │
+│   ├── templates/
+│   │   ├── login.html
+│   │   └── dashboard.html
+│   │ 
+│   └── serviceAccountKey2.json  # サービスアカウントキーファイル
+│
+├── app.py
+├── firebase_connection/
+│   ├── __init__.py
+│   ├── firebase_connection.cpython-312.pyc
+│   └── firebase_connection.py
+│
+├── user_management/
+│   ├── __init__.py
+│   ├── user_management.cpython-312.pyc
+│   └── user_management.py
+│
+├── requirements.txt
+├── Dockerfile
+├── package.json
+├── firebase.json
+└── directory
